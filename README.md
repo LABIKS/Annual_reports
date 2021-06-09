@@ -65,13 +65,12 @@ Table 2. Report 2019 - Contents
 |Content| Type | Format | 
 | --- | --- | --- |
 | BSS_LA_DataBase |  spreadsheet | .csv | 
-| Image_X |  image | .png | 
-| Image_X |  image | .png | 
-| Image_X |  image | .png | 
-| Image_X |  image | .png | 
-| Image_X |  image | .png | 
-| Image_X |  image | .png | 
-| Image_X |  image | .png | 
-| Image_X |  image | .png | 
+| Systems_per_country |  image | .png | 
+| Systems_type_per_country |  image | .png | 
+| Systems_per_cities_population |  image | .png | 
+| BSS_LA_Timeline |  image | .png | 
+| Largest_LA_Systems |  image | .png | 
+| Operators_type |  image | .png | 
+| Sponsors_sectors|  image | .png |  
 | LatinoSBP_Report_2019_EN |  text | .pdf | 
 
