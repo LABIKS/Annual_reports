@@ -55,7 +55,9 @@ Table 1. Study’s variables
 
 ## **REPOSITORY CONTENT**
 
-Here you will find the repository's content along the pubication's realease years.
+Here you will find the repository's content along the years. The report will be released every year, using data from the past year.
+
+*For example: The report with 2019's data was release in 2020.* 
 
 <br>
 Table 2. Report 2019 - Contents
